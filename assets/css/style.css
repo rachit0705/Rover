@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial Gotrhic;
+}
+header{
+	background-image: url(one.jfif);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 25px;
+
+}
+.logo img{
+	float: left;
+	width: 100px;
+	height: auto;
+}
+.main{
+	max-width: 1200px;
+	margin: auto;
+}
+
+
+.btn{
+    border: 1px solid transparent;
+    padding: 10px 30px;
+    color: #000;
+    text-decoration: none;
+    transition: 0.6s ease;
+    float: left;
+}
+.btn:hover{
+	background-color: #fff;
+	color: #000000;
+}
+.sign-up-form
+{
+	width: 300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: transparent;
+	padding: 20px;
+	margin: 10% auto 0;
+	text-align: center;
+}
+.sign-up-form h1
+{
+color: #0000ff;
+margin-bottom: 30px;
+}
+.input-box
+{
+	border-radius: 20px;
+	padding: 10px;
+	margin: 10px 0;
+	width: 100%;
+	border: 1px solid #999;
+	outline: none;
+}
+button
+{
+	color: #fff;
+	width: 100%;
+	padding: 10px;
+	border-radius: 20px;
+	font-size: 15px;
+	margin: 10px o;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+.signup-btn
+{
+	background-color: #0080ff;
+}
+.google-btn
+{
+    background-color: #0040ff
+}
+a
+{
+	text-decoration: none;
+}
+hr
+{
+	margin-top: 20px;
+	width: 80%;
+}
+.or
+{
+	background: transparent;
+	width: 30px;
+	margin: -19px auto 10px;
+}
+.checkbox{
+	color: #fff;
+}
+p a
+{
+	text-decoration: none;
+	color: #fff;
+}
+p
+{
+	color: #fff;
+	font-weight: bold;
+}
